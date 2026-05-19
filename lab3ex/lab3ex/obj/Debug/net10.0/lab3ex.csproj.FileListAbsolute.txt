@@ -1,0 +1,14 @@
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\bin\Debug\net10.0\lab3ex.exe
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\bin\Debug\net10.0\lab3ex.deps.json
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\bin\Debug\net10.0\lab3ex.runtimeconfig.json
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\bin\Debug\net10.0\lab3ex.dll
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\bin\Debug\net10.0\lab3ex.pdb
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\lab3ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\lab3ex.AssemblyInfoInputs.cache
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\lab3ex.AssemblyInfo.cs
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\lab3ex.csproj.CoreCompileInputs.cache
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\lab3ex.dll
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\refint\lab3ex.dll
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\lab3ex.pdb
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\lab3ex.genruntimeconfig.cache
+C:\Users\legen\Desktop\ІТКМ\lab3ex\lab3ex\obj\Debug\net10.0\ref\lab3ex.dll
